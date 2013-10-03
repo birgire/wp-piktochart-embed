@@ -30,8 +30,8 @@ if( ! class_exists( 'WP_Piktochart_Embed' ) ):
 	*/
 	class WP_Piktochart_Embed {
 		
-		private $plugin_domain 		= 'wp_piktochart_embed';
-		static private $obj 		= NULL;
+		private $plugin_domain 	= 'wp_piktochart_embed';
+		static private $obj 	= NULL;
 	
 		/**
 		 * The constructor
