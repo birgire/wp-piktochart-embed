@@ -58,7 +58,7 @@ if( ! class_exists( 'WP_Piktochart_Embed' ) ):
 		 * @return  object $obj
 		 */
 
-		 public function get_object () {
+		 public static function get_object () {
 			
 			if ( NULL === self :: $obj ) {
 				self :: $obj = new self;
