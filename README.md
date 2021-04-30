@@ -1,7 +1,7 @@
 WP PiktoChart Embed - WordPress plugin
 =================
 
-###Description
+### Description
 
 This plugin is meant for multi-site WordPress installs, but it should also work on a single-site installs as well.
 
